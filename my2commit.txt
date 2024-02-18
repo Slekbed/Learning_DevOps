@@ -1,0 +1,2 @@
+git status
+one commit in 2 files 
