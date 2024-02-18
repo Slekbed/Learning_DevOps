@@ -1,2 +1,5 @@
 git status
+<<<<<<< HEAD
 one commit in 2 files 
+=======
+>>>>>>> 12989fb2d396a1494f85d83789866be84d13818f
